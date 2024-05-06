@@ -1,2 +1,3 @@
-# javascript-lession
-this project is designed for starter leaner with javascript
+# Javascript-lession
+## Javascript code for server side!!
+[ ] what is Js?
