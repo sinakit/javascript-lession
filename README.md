@@ -1,3 +1,74 @@
 # Javascript-lession
 ## Javascript code for server side!!
-[ ] what is Js?
+- [ ] what is Js?
+- [ ] Js convention
+- [ ] Javascript statement
+- [ ] How to use variable? Declare and Use
+- [ ] Js comment, single line and multiple line
+- [ ] Js datatype, how to use `var`, `let` and `const`
+- [ ] Js operator
+  - [ ] Arithmatic operator
+  - [ ] Assignment operator
+  - [ ] Comparison operator
+  - [ ] String operator
+  - [ ] Logical operator
+  - [ ] Bitwise operator
+  - [ ] Ternery operatot
+- [ ] Count 8 data types in js?
+- [ ] Count 3 type Object data type
+- [ ] Js function
+  - [ ] Legacy function
+  - [ ] Arrow function
+  - [ ] How to involk above 2 functions
+- [ ] Js object
+- [ ] Js Event (Applied on frontend)
+- [ ] Js String
+  - [ ] String Method
+  - [ ] String search
+  - [ ] String template
+- [ ] Js number
+  - [ ] Number method
+  - [ ] Number properties
+- [ ] Js Array
+  - [ ] Array Methods
+  - [ ] Array search
+  - [ ] Array sort
+- [ ] Js Date
+- [ ] Js Math and its methods
+- [ ] Js boolean
+- [ ] Js comparision
+      - check and understand what different between `==` and `===`
+- [ ] Js Contol flow
+  - [ ] For loop
+  - [ ] For in
+  - [ ] For of
+  - [ ] While
+  - [ ] Do While
+  - [ ] Break
+  - [ ] Iterables loop
+- [ ] Set method
+- [ ] Map Method
+- [ ] Js `typeof`
+  - [ ] Contain value `String`, `Number`, `Boolean`, `Object`, `Function`
+  - [ ] Contain no value `null` and `undefined`
+  - [ ] Type of objects `Object`, `Date`, `Array`, `String`, `Number`, `Boolean`
+- [ ] Js conversion
+  - [ ] convert string to number'
+  - [ ] convert number to string
+  - [ ] convert date to number
+  - [ ] convert number to date
+  - [ ] convert boolean to number
+  - [ ] convert number to boolean
+- [ ] Regular expression
+- [ ] Js Errors
+  - [ ] Try ... Catch ... Final
+  - [ ] Throw
+- [ ] Js Scope
+  - [ ] Global
+  - [ ] Local (Block and Function)
+- [ ] Js keyword `this`
+- [ ] Js class
+- [ ] Js JSON
+- [ ] Js history
+- [ ] Js promise
+- [ ] Js async/await
