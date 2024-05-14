@@ -1,5 +1,5 @@
 var sentents="He is a teacher";
-var firstname="sarin";
-var lastname="cheav";
-var fullname=firstname+" "+lastname;
-console.log(fullname.toUpperCase()); 
+var firstName="sarin";
+var lastName="cheav";
+var fullName=firstName+" "+lastName;
+console.log(fullName.toUpperCase()); 
