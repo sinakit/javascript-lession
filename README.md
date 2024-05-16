@@ -1,6 +1,6 @@
 # Javascript-lession
 ## Javascript code for server side!!
-- [X ] what is Js?
+- [x] what is Js?
 JS or JavaScript is a programming language that is primarily used for web development. It is a versatile language that allows developers to add dynamic and interactive elements to websites. JavaScript can be used for tasks such as validating form inputs, creating interactive content, handling events, making HTTP requests, and manipulating HTML elements on web pages. It is supported by all major web browsers and can be used on both the client-side (in the browser) and the server-side (with the help of server-side frameworks like Node.js). JavaScript is known for its flexibility and wide range of libraries and frameworks that make web development more efficient and powerful.
 - [ X] Js convention
 Snake case:
